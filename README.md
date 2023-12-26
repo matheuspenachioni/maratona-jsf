@@ -9,14 +9,14 @@ Esse repositório irá acompanhar minha jornada se aprofundando mais no mundo Ja
 - [x] 01 - Visão panorâmica sobre o JEE
 - [x] 02 - Configurando o ambiente de desenvolvimento
 - [x] 03 - Configurando container e hot deploy
-- [] 04 - Expression Language pt 01, Introdução
-- [] 05 - Expression Language pt 02, Operações lógicas
-- [] 06 - Expression Language pt 03, Objetos e enumerações
-- [] 07 - Expression Language pt 04, Coleções
-- [] 08 - Expression Language pt 05, Executando métodos
-- [] 09 - Expression Language pt 06, EL com JS e CSS
-- [] 10 - Expression Language pt 07, EL Manipulando exibição com rendered e ajax
-- [] 11 - Expression Language pt 08, EL lambdas e streams
+- [x] 04 - Expression Language pt 01, Introdução
+- [x] 05 - Expression Language pt 02, Operações lógicas
+- [x] 06 - Expression Language pt 03, Objetos e enumerações
+- [x] 07 - Expression Language pt 04, Coleções
+- [x] 08 - Expression Language pt 05, Executando métodos
+- [x] 09 - Expression Language pt 06, EL com JS e CSS
+- [x] 10 - Expression Language pt 07, EL Manipulando exibição com rendered e ajax
+- [x] 11 - Expression Language pt 08, EL lambdas e streams
 - [] 12 - Escopos pt 01, RequestScoped
 - [] 13 - Escopos pt 02, SessionScoped
 - [] 14 - Escopos pt 03, ViewScoped
